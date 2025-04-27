@@ -1,2 +1,2 @@
 # coinflipper
-Simple coinflip in java based of deluxecoinflips (minecraft plugin's)
+Very simple, made in 10 minutes as It was meant to be a coinflip predictor but It didn't work out :P
